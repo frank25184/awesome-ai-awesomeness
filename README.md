@@ -335,6 +335,6 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [Segmentation & Saliency detection](https://github.com/lartpang/awesome-segmentation-saliency-dataset)
 
-# AI Career
+# AI Newsletter
 
-- [Awesome Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
+- [AI Highlights from CogList](https://coglist.com/issues) -  a weekly AI newsletter
